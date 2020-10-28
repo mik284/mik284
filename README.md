@@ -35,10 +35,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
----
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -55,7 +51,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="krivahtoo's Github Stats" src="https://github-readme-stats.krivahtoo.vercel.app/api?username=krivahtoo&show_icons=true&hide_border=true" />
-
+  [![Krivah's github stats](https://github-readme-stats.vercel.app/api?username=krivahtoo)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
