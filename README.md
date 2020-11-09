@@ -25,7 +25,7 @@
   <summary>:zap: Github Stats</summary>
 
   [![Krivah's github stats](https://github-readme-stats.vercel.app/api?username=krivahtoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krivahtoo)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krivahtoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
