@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/krivahtoo/awesome-cheatsheets/pull/4) in [krivahtoo/awesome-cheatsheets](https://github.com/krivahtoo/awesome-cheatsheets)
-2. 💪 Opened PR [#4](https://github.com/krivahtoo/awesome-cheatsheets/pull/4) in [krivahtoo/awesome-cheatsheets](https://github.com/krivahtoo/awesome-cheatsheets)
-3. 🎉 Merged PR [#5](https://github.com/krivahtoo/telegraf/pull/5) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
-4. 💪 Opened PR [#5](https://github.com/krivahtoo/telegraf/pull/5) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
-5. 🗣 Commented on [#805](https://github.com/flameshot-org/flameshot/issues/805) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+1. 🎉 Merged PR [#2](https://github.com/krivahtoo/airgram/pull/2) in [krivahtoo/airgram](https://github.com/krivahtoo/airgram)
+2. 💪 Opened PR [#2](https://github.com/krivahtoo/airgram/pull/2) in [krivahtoo/airgram](https://github.com/krivahtoo/airgram)
+3. 🎉 Merged PR [#4](https://github.com/krivahtoo/awesome-cheatsheets/pull/4) in [krivahtoo/awesome-cheatsheets](https://github.com/krivahtoo/awesome-cheatsheets)
+4. 💪 Opened PR [#4](https://github.com/krivahtoo/awesome-cheatsheets/pull/4) in [krivahtoo/awesome-cheatsheets](https://github.com/krivahtoo/awesome-cheatsheets)
+5. 🎉 Merged PR [#5](https://github.com/krivahtoo/telegraf/pull/5) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
 <!--END_SECTION:activity-->
 
 </details>
