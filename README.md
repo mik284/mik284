@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/krivahtoo/telegraf/pull/9) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
-2. 💪 Opened PR [#9](https://github.com/krivahtoo/telegraf/pull/9) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
-3. 💪 Opened PR [#1204](https://github.com/telegraf/telegraf/pull/1204) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
-4. 🎉 Merged PR [#8](https://github.com/krivahtoo/telegraf/pull/8) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
-5. 💪 Opened PR [#8](https://github.com/krivahtoo/telegraf/pull/8) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
+1. 🎉 Merged PR [#1](https://github.com/krivahtoo/telechat/pull/1) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. 💪 Opened PR [#1](https://github.com/krivahtoo/telechat/pull/1) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. 🎉 Merged PR [#9](https://github.com/krivahtoo/telegraf/pull/9) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
+4. 💪 Opened PR [#9](https://github.com/krivahtoo/telegraf/pull/9) in [krivahtoo/telegraf](https://github.com/krivahtoo/telegraf)
+5. 💪 Opened PR [#1204](https://github.com/telegraf/telegraf/pull/1204) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
 <!--END_SECTION:activity-->
 
 </details>
