@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/krivahtoo/telechat/pull/3) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🎉 Merged PR [#5](https://github.com/Kriv-Art/BibleBot/pull/5) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-3. ❗️ Closed issue [#3](https://github.com/krivahtoo/group-manager/issues/3) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. 🎉 Merged PR [#2](https://github.com/krivahtoo/telechat/pull/2) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. ❗️ Opened issue [#5](https://github.com/krivahtoo/group-manager/issues/5) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. 🎉 Merged PR [#7](https://github.com/krivahtoo/group-manager/pull/7) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+2. 🎉 Merged PR [#6](https://github.com/krivahtoo/group-manager/pull/6) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. 🎉 Merged PR [#3](https://github.com/krivahtoo/telechat/pull/3) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. 🎉 Merged PR [#5](https://github.com/Kriv-Art/BibleBot/pull/5) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+5. ❗️ Closed issue [#3](https://github.com/krivahtoo/group-manager/issues/3) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
