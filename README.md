@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/krivahtoo/group-manager/pull/13) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-2. 🎉 Merged PR [#8](https://github.com/krivahtoo/group-manager/pull/8) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-3. 🎉 Merged PR [#9](https://github.com/krivahtoo/group-manager/pull/9) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. 🎉 Merged PR [#7](https://github.com/krivahtoo/group-manager/pull/7) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-5. 🎉 Merged PR [#6](https://github.com/krivahtoo/group-manager/pull/6) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. 🎉 Merged PR [#6](https://github.com/Kriv-Art/BibleBot/pull/6) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+2. 🎉 Merged PR [#13](https://github.com/krivahtoo/group-manager/pull/13) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. 🎉 Merged PR [#8](https://github.com/krivahtoo/group-manager/pull/8) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+4. 🎉 Merged PR [#9](https://github.com/krivahtoo/group-manager/pull/9) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. 🎉 Merged PR [#7](https://github.com/krivahtoo/group-manager/pull/7) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
