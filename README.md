@@ -13,10 +13,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🗣 Commented on [#35](https://github.com/krivahtoo/telechat/issues/35) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-3. 🎉 Merged PR [#31](https://github.com/krivahtoo/telechat/pull/31) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-4. 🎉 Merged PR [#33](https://github.com/krivahtoo/telechat/pull/33) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. 🎉 Merged PR [#29](https://github.com/krivahtoo/telechat/pull/29) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. 🗣 Commented on [#35](https://github.com/krivahtoo/telechat/issues/35) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. 🎉 Merged PR [#31](https://github.com/krivahtoo/telechat/pull/31) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
 <!--END_SECTION:activity-->
 
 </details>
