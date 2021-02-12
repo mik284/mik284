@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#34](https://github.com/krivahtoo/telechat/pull/34) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. 🎉 Merged PR [#27](https://github.com/krivahtoo/telechat/pull/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
 3. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-4. 🗣 Commented on [#35](https://github.com/krivahtoo/telechat/issues/35) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. 🎉 Merged PR [#31](https://github.com/krivahtoo/telechat/pull/31) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. 🗣 Commented on [#27](https://github.com/krivahtoo/telechat/issues/27) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
 <!--END_SECTION:activity-->
 
 </details>
