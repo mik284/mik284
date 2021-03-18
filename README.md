@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/krivahtoo/group-manager/issues/1) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-2. 🎉 Merged PR [#1](https://github.com/krivahtoo/krivahtoo.github.io/pull/1) in [krivahtoo/krivahtoo.github.io](https://github.com/krivahtoo/krivahtoo.github.io)
-3. 💪 Opened PR [#1](https://github.com/krivahtoo/krivahtoo.github.io/pull/1) in [krivahtoo/krivahtoo.github.io](https://github.com/krivahtoo/krivahtoo.github.io)
-4. 🎉 Merged PR [#45](https://github.com/krivahtoo/telechat/pull/45) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. 🎉 Merged PR [#44](https://github.com/krivahtoo/telechat/pull/44) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#19](https://github.com/krivahtoo/group-manager/pull/19) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+2. 🎉 Merged PR [#18](https://github.com/krivahtoo/group-manager/pull/18) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. 🎉 Merged PR [#23](https://github.com/krivahtoo/group-manager/pull/23) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+4. 🗣 Commented on [#18](https://github.com/krivahtoo/group-manager/issues/18) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. 🎉 Merged PR [#24](https://github.com/krivahtoo/group-manager/pull/24) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
