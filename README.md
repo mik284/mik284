@@ -12,11 +12,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/vinceliuice/McMojave-circle/issues/55) in [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle)
-2. 💪 Opened PR [#55](https://github.com/vinceliuice/McMojave-circle/pull/55) in [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle)
-3. ❗️ Opened issue [#26](https://github.com/krivahtoo/group-manager/issues/26) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. 🎉 Merged PR [#19](https://github.com/krivahtoo/group-manager/pull/19) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-5. 🎉 Merged PR [#18](https://github.com/krivahtoo/group-manager/pull/18) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. ❌ Closed PR [#52](https://github.com/krivahtoo/telechat/pull/52) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. ❌ Closed PR [#51](https://github.com/krivahtoo/telechat/pull/51) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. ❌ Closed PR [#50](https://github.com/krivahtoo/telechat/pull/50) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. ❌ Closed PR [#49](https://github.com/krivahtoo/telechat/pull/49) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. ❌ Closed PR [#46](https://github.com/krivahtoo/telechat/pull/46) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
 <!--END_SECTION:activity-->
 
 </details>
