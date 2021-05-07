@@ -2,7 +2,7 @@
 
 ## I'm a self thought passionate Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working on [Stock Manager](https://github.com/krivahtoo/stockmanager)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ---
