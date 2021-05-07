@@ -11,11 +11,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/krivahtoo/telechat/pull/66) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🎉 Merged PR [#67](https://github.com/krivahtoo/telechat/pull/67) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-3. 🗣 Commented on [#31](https://github.com/dacap/clip/issues/31) in [dacap/clip](https://github.com/dacap/clip)
-4. 🎉 Merged PR [#59](https://github.com/krivahtoo/telechat/pull/59) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. ❌ Closed PR [#56](https://github.com/krivahtoo/telechat/pull/56) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#37](https://github.com/krivahtoo/group-manager/pull/37) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+2. ❌ Closed PR [#33](https://github.com/krivahtoo/group-manager/pull/33) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. ❌ Closed PR [#27](https://github.com/krivahtoo/group-manager/pull/27) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+4. 🎉 Merged PR [#35](https://github.com/krivahtoo/group-manager/pull/35) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. 🎉 Merged PR [#32](https://github.com/krivahtoo/group-manager/pull/32) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
