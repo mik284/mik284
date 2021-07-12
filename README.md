@@ -11,11 +11,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/kamiyaa/joshuto/pull/82) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-2. 🎉 Merged PR [#51](https://github.com/krivahtoo/group-manager/pull/51) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-3. 🎉 Merged PR [#52](https://github.com/krivahtoo/group-manager/pull/52) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. 🎉 Merged PR [#43](https://github.com/krivahtoo/group-manager/pull/43) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-5. 🎉 Merged PR [#54](https://github.com/krivahtoo/group-manager/pull/54) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. 💪 Opened PR [#83](https://github.com/kamiyaa/joshuto/pull/83) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+2. 💪 Opened PR [#82](https://github.com/kamiyaa/joshuto/pull/82) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+3. 🎉 Merged PR [#51](https://github.com/krivahtoo/group-manager/pull/51) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+4. 🎉 Merged PR [#52](https://github.com/krivahtoo/group-manager/pull/52) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. 🎉 Merged PR [#43](https://github.com/krivahtoo/group-manager/pull/43) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
