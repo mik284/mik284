@@ -40,17 +40,21 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 
+### Stay in touch:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/krivahtoo)
+
 ---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/krivahtoo/group-manager/pull/58) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-2. 🎉 Merged PR [#8](https://github.com/Kriv-Art/BibleBot/pull/8) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-3. 🎉 Merged PR [#9](https://github.com/Kriv-Art/BibleBot/pull/9) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-4. 🎉 Merged PR [#115](https://github.com/krivahtoo/telechat/pull/115) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. 🎉 Merged PR [#119](https://github.com/krivahtoo/telechat/pull/119) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#8](https://github.com/Kriv-Art/BibleBot/pull/8) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+2. 🎉 Merged PR [#9](https://github.com/Kriv-Art/BibleBot/pull/9) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+3. 🎉 Merged PR [#115](https://github.com/krivahtoo/telechat/pull/115) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. 🎉 Merged PR [#119](https://github.com/krivahtoo/telechat/pull/119) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. 💪 Opened PR [#87](https://github.com/kamiyaa/joshuto/pull/87) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 <!--END_SECTION:activity-->
 
 </details>
