@@ -50,11 +50,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
-2. 💪 Opened PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
-3. ❌ Closed PR [#45](https://github.com/krivahtoo/group-manager/pull/45) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. ❌ Closed PR [#46](https://github.com/krivahtoo/group-manager/pull/46) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-5. 🎉 Merged PR [#58](https://github.com/krivahtoo/group-manager/pull/58) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. 🎉 Merged PR [#10](https://github.com/Kriv-Art/BibleBot/pull/10) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+2. 🎉 Merged PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
+3. 💪 Opened PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
+4. ❌ Closed PR [#45](https://github.com/krivahtoo/group-manager/pull/45) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+5. ❌ Closed PR [#46](https://github.com/krivahtoo/group-manager/pull/46) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
