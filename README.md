@@ -11,6 +11,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 ![Express.js](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex&logoColor=008080)
