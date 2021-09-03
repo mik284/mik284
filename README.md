@@ -51,11 +51,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/krivahtoo/telechat/pull/111) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🎉 Merged PR [#120](https://github.com/krivahtoo/telechat/pull/120) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-3. 🎉 Merged PR [#10](https://github.com/Kriv-Art/BibleBot/pull/10) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-4. 🎉 Merged PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
-5. 💪 Opened PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
+1. 🎉 Merged PR [#12](https://github.com/Kriv-Art/BibleBot/pull/12) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+2. 🎉 Merged PR [#111](https://github.com/krivahtoo/telechat/pull/111) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. 🎉 Merged PR [#120](https://github.com/krivahtoo/telechat/pull/120) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. 🎉 Merged PR [#10](https://github.com/Kriv-Art/BibleBot/pull/10) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+5. 🎉 Merged PR [#1](https://github.com/krivahtoo/rust-sudoku-solver/pull/1) in [krivahtoo/rust-sudoku-solver](https://github.com/krivahtoo/rust-sudoku-solver)
 <!--END_SECTION:activity-->
 
 </details>
