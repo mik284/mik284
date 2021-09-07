@@ -26,6 +26,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&logoColor=a72145)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=1572B6)
 
 ### IDEs and Text editors:
 
@@ -62,6 +63,6 @@
 
 
   [![Krivah's github stats](https://github-readme-stats-ipdt5u6fg-krivahtoo.vercel.app/api?username=krivahtoo&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats-ipdt5u6fg-krivahtoo.vercel.app/api/top-langs/?username=krivahtoo&layout=compact&langs_count=12&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-ipdt5u6fg-krivahtoo.vercel.app/api/top-langs/?username=krivahtoo&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
