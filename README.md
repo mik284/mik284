@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/krivahtoo/telechat/pull/81) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🎉 Merged PR [#1](https://github.com/krivahtoo/tauri-calc/pull/1) in [krivahtoo/tauri-calc](https://github.com/krivahtoo/tauri-calc)
-3. 💪 Opened PR [#1](https://github.com/krivahtoo/tauri-calc/pull/1) in [krivahtoo/tauri-calc](https://github.com/krivahtoo/tauri-calc)
-4. 🎉 Merged PR [#147](https://github.com/krivahtoo/telechat/pull/147) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-5. 🎉 Merged PR [#110](https://github.com/krivahtoo/telechat/pull/110) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#148](https://github.com/krivahtoo/telechat/pull/148) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. 🎉 Merged PR [#81](https://github.com/krivahtoo/telechat/pull/81) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. 🎉 Merged PR [#1](https://github.com/krivahtoo/tauri-calc/pull/1) in [krivahtoo/tauri-calc](https://github.com/krivahtoo/tauri-calc)
+4. 💪 Opened PR [#1](https://github.com/krivahtoo/tauri-calc/pull/1) in [krivahtoo/tauri-calc](https://github.com/krivahtoo/tauri-calc)
+5. 🎉 Merged PR [#147](https://github.com/krivahtoo/telechat/pull/147) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
 <!--END_SECTION:activity-->
 
 </details>
