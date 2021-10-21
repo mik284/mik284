@@ -1,6 +1,6 @@
 ### Hi there, I'm Noah - aka Krivah 👋
 
-## I'm a self thought passionate Developer
+## I'm a self taught passionate Developer
 
 - 🌱 I’m currently working on a Svelte project
 - 🥅 2021 Goals: Contribute more to Open Source projects
