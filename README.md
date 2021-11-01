@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/krivahtoo/github-readme-stats/pull/1) in [krivahtoo/github-readme-stats](https://github.com/krivahtoo/github-readme-stats)
-2. 💪 Opened PR [#1](https://github.com/krivahtoo/github-readme-stats/pull/1) in [krivahtoo/github-readme-stats](https://github.com/krivahtoo/github-readme-stats)
-3. ❌ Closed PR [#66](https://github.com/krivahtoo/group-manager/pull/66) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-4. 🎉 Merged PR [#67](https://github.com/krivahtoo/group-manager/pull/67) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-5. 🎉 Merged PR [#154](https://github.com/krivahtoo/telechat/pull/154) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🎉 Merged PR [#155](https://github.com/krivahtoo/telechat/pull/155) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. 🎉 Merged PR [#156](https://github.com/krivahtoo/telechat/pull/156) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. 🎉 Merged PR [#1](https://github.com/krivahtoo/github-readme-stats/pull/1) in [krivahtoo/github-readme-stats](https://github.com/krivahtoo/github-readme-stats)
+4. 💪 Opened PR [#1](https://github.com/krivahtoo/github-readme-stats/pull/1) in [krivahtoo/github-readme-stats](https://github.com/krivahtoo/github-readme-stats)
+5. ❌ Closed PR [#66](https://github.com/krivahtoo/group-manager/pull/66) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
 <!--END_SECTION:activity-->
 
 </details>
