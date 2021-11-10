@@ -30,10 +30,10 @@
 
 ### IDEs and Text editors:
 
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
-![Atom](https://img.shields.io/badge/-Atom-000?&logo=atom)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=47A248)
+![Atom](https://img.shields.io/badge/-Atom-000?&logo=atom)
 
 ### Databases:
 
