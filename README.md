@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/krivahtoo/group-manager/pull/70) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-2. ❗️ Opened issue [#2](https://github.com/krivahtoo/fanya/issues/2) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
-3. 🎉 Merged PR [#163](https://github.com/krivahtoo/telechat/pull/163) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-4. 🎉 Merged PR [#1](https://github.com/krivahtoo/fanya/pull/1) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
-5. 💪 Opened PR [#1](https://github.com/krivahtoo/fanya/pull/1) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
+1. 💪 Opened PR [#106](https://github.com/kamiyaa/joshuto/pull/106) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+2. 🎉 Merged PR [#70](https://github.com/krivahtoo/group-manager/pull/70) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. ❗️ Opened issue [#2](https://github.com/krivahtoo/fanya/issues/2) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
+4. 🎉 Merged PR [#163](https://github.com/krivahtoo/telechat/pull/163) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. 🎉 Merged PR [#1](https://github.com/krivahtoo/fanya/pull/1) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
 <!--END_SECTION:activity-->
 
 </details>
