@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/krivahtoo/htmpd/issues/1) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-2. 🎉 Merged PR [#1](https://github.com/krivahtoo/wang-tiles/pull/1) in [krivahtoo/wang-tiles](https://github.com/krivahtoo/wang-tiles)
-3. 💪 Opened PR [#1](https://github.com/krivahtoo/wang-tiles/pull/1) in [krivahtoo/wang-tiles](https://github.com/krivahtoo/wang-tiles)
-4. 💪 Opened PR [#106](https://github.com/kamiyaa/joshuto/pull/106) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-5. 🎉 Merged PR [#70](https://github.com/krivahtoo/group-manager/pull/70) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. ❗️ Opened issue [#2](https://github.com/krivahtoo/htmpd/issues/2) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+2. ❗️ Opened issue [#1](https://github.com/krivahtoo/htmpd/issues/1) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+3. 🎉 Merged PR [#1](https://github.com/krivahtoo/wang-tiles/pull/1) in [krivahtoo/wang-tiles](https://github.com/krivahtoo/wang-tiles)
+4. 💪 Opened PR [#1](https://github.com/krivahtoo/wang-tiles/pull/1) in [krivahtoo/wang-tiles](https://github.com/krivahtoo/wang-tiles)
+5. 💪 Opened PR [#106](https://github.com/kamiyaa/joshuto/pull/106) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 <!--END_SECTION:activity-->
 
 </details>
