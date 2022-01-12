@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/krivahtoo/group-manager/pull/72) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
-2. 🎉 Merged PR [#5](https://github.com/krivahtoo/htmpd/pull/5) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-3. 💪 Opened PR [#5](https://github.com/krivahtoo/htmpd/pull/5) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-4. 🎉 Merged PR [#4](https://github.com/krivahtoo/htmpd/pull/4) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-5. 💪 Opened PR [#4](https://github.com/krivahtoo/htmpd/pull/4) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+1. ❗️ Closed issue [#1](https://github.com/krivahtoo/htmpd/issues/1) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+2. 🎉 Merged PR [#72](https://github.com/krivahtoo/group-manager/pull/72) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+3. 🎉 Merged PR [#5](https://github.com/krivahtoo/htmpd/pull/5) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+4. 💪 Opened PR [#5](https://github.com/krivahtoo/htmpd/pull/5) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+5. 🎉 Merged PR [#4](https://github.com/krivahtoo/htmpd/pull/4) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
 <!--END_SECTION:activity-->
 
 </details>
