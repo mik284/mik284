@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/krivahtoo/telechat/pull/181) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-2. 🎉 Merged PR [#177](https://github.com/krivahtoo/telechat/pull/177) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-3. 🎉 Merged PR [#180](https://github.com/krivahtoo/telechat/pull/180) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-4. ❗️ Opened issue [#123](https://github.com/kamiyaa/joshuto/issues/123) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-5. ❗️ Closed issue [#1](https://github.com/krivahtoo/htmpd/issues/1) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+1. 🎉 Merged PR [#1](https://github.com/krivahtoo/url-shortener/pull/1) in [krivahtoo/url-shortener](https://github.com/krivahtoo/url-shortener)
+2. 🎉 Merged PR [#181](https://github.com/krivahtoo/telechat/pull/181) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+3. 🎉 Merged PR [#177](https://github.com/krivahtoo/telechat/pull/177) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+4. 🎉 Merged PR [#180](https://github.com/krivahtoo/telechat/pull/180) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. ❗️ Opened issue [#123](https://github.com/kamiyaa/joshuto/issues/123) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 <!--END_SECTION:activity-->
 
 </details>
