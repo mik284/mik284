@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/kamiyaa/joshuto/pull/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-2. 🎉 Merged PR [#6](https://github.com/krivahtoo/htmpd/pull/6) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-3. 🎉 Merged PR [#3](https://github.com/krivahtoo/fanya/pull/3) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
-4. 🎉 Merged PR [#1](https://github.com/krivahtoo/url-shortener/pull/1) in [krivahtoo/url-shortener](https://github.com/krivahtoo/url-shortener)
-5. 🎉 Merged PR [#181](https://github.com/krivahtoo/telechat/pull/181) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+1. 🗣 Commented on [#132](https://github.com/kamiyaa/joshuto/issues/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+2. 💪 Opened PR [#132](https://github.com/kamiyaa/joshuto/pull/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+3. 🎉 Merged PR [#6](https://github.com/krivahtoo/htmpd/pull/6) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+4. 🎉 Merged PR [#3](https://github.com/krivahtoo/fanya/pull/3) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
+5. 🎉 Merged PR [#1](https://github.com/krivahtoo/url-shortener/pull/1) in [krivahtoo/url-shortener](https://github.com/krivahtoo/url-shortener)
 <!--END_SECTION:activity-->
 
 </details>
