@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/krivahtoo/htmpd/issues/2) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-2. 🗣 Commented on [#132](https://github.com/kamiyaa/joshuto/issues/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-3. 💪 Opened PR [#132](https://github.com/kamiyaa/joshuto/pull/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-4. 🎉 Merged PR [#6](https://github.com/krivahtoo/htmpd/pull/6) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-5. 🎉 Merged PR [#3](https://github.com/krivahtoo/fanya/pull/3) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
+1. 🎉 Merged PR [#4](https://github.com/krivahtoo/fanya/pull/4) in [krivahtoo/fanya](https://github.com/krivahtoo/fanya)
+2. ❗️ Closed issue [#2](https://github.com/krivahtoo/htmpd/issues/2) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
+3. 🗣 Commented on [#132](https://github.com/kamiyaa/joshuto/issues/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+4. 💪 Opened PR [#132](https://github.com/kamiyaa/joshuto/pull/132) in [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
+5. 🎉 Merged PR [#6](https://github.com/krivahtoo/htmpd/pull/6) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
 <!--END_SECTION:activity-->
 
 </details>
