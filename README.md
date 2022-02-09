@@ -3,7 +3,7 @@
 ## I'm a self taught passionate Developer
 
 - 🌱 I’m currently working on a Svelte project
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
