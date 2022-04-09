@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Kriv-Art/BibleBot/pull/19) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-2. 🎉 Merged PR [#16](https://github.com/Kriv-Art/BibleBot/pull/16) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-3. 🎉 Merged PR [#212](https://github.com/krivahtoo/telechat/pull/212) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-4. 🎉 Merged PR [#18](https://github.com/Kriv-Art/BibleBot/pull/18) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-5. ❌ Closed PR [#88](https://github.com/krivahtoo/group-manager/pull/88) in [krivahtoo/group-manager](https://github.com/krivahtoo/group-manager)
+1. 🎉 Merged PR [#214](https://github.com/krivahtoo/telechat/pull/214) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+2. 🎉 Merged PR [#19](https://github.com/Kriv-Art/BibleBot/pull/19) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+3. 🎉 Merged PR [#16](https://github.com/Kriv-Art/BibleBot/pull/16) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
+4. 🎉 Merged PR [#212](https://github.com/krivahtoo/telechat/pull/212) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
+5. 🎉 Merged PR [#18](https://github.com/Kriv-Art/BibleBot/pull/18) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
 <!--END_SECTION:activity-->
 
 </details>
