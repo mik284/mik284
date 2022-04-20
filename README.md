@@ -52,19 +52,11 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/krivahtoo/htmpd/pull/17) in [krivahtoo/htmpd](https://github.com/krivahtoo/htmpd)
-2. 🎉 Merged PR [#214](https://github.com/krivahtoo/telechat/pull/214) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-3. 🎉 Merged PR [#19](https://github.com/Kriv-Art/BibleBot/pull/19) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-4. 🎉 Merged PR [#16](https://github.com/Kriv-Art/BibleBot/pull/16) in [Kriv-Art/BibleBot](https://github.com/Kriv-Art/BibleBot)
-5. 🎉 Merged PR [#212](https://github.com/krivahtoo/telechat/pull/212) in [krivahtoo/telechat](https://github.com/krivahtoo/telechat)
-<!--END_SECTION:activity-->
 
 </details>
 
 
-  [![mik284's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=mik284o&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
+  [![mik284's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=mik284&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mik284&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=mik284&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
