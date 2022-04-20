@@ -46,7 +46,7 @@
 
 ### Stay in touch:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](linkedin.com/in/michael-kamau-633790203)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/michael-kamau-633790203/)
 
 ---
 
