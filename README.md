@@ -1,9 +1,10 @@
-### Hi there, I'm Noah - aka Krivah 👋
+### Hi there, I'm Michael kamau👋
 
 ## I'm a self taught passionate Developer
 
-- 🌱 I’m currently working on a Svelte project
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently Learning software Egineeering at ALX SE program
+- 🥅 2022 Goals: Learn new skilss and 
+- Contribute more to Open Source projects
 
 ---
 
@@ -62,9 +63,9 @@
 </details>
 
 
-  [![Krivah's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=krivahtoo&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krivahtoo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=krivahtoo&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![mik284's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=mik284o&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mik284&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=mik284&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
