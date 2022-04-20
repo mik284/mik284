@@ -3,7 +3,8 @@
 ## I'm a self taught passionate Developer
 
 - 🌱 I’m currently Learning software Egineeering at ALX SE program
-- 🥅 2022 Goals: Learn new skilss and 
+- 🥅 2022 Goals: 
+- Learn new skills 
 - Contribute more to Open Source projects
 
 ---
@@ -45,7 +46,7 @@
 
 ### Stay in touch:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/krivahtoo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](linkedin.com/in/michael-kamau-633790203)
 
 ---
 
