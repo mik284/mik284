@@ -13,10 +13,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 ![Express.js](https://img.shields.io/badge/-Express-000?&logo=express)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex&logoColor=008080)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
@@ -40,7 +37,6 @@
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
-// ongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 
 ### Stay in touch:
 
