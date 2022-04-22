@@ -26,13 +26,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/krivahtoo?tab=repositories&q=&type=&language=javascript)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&logoColor=a72145)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=1572B6)
 
 ### IDEs and Text editors:
 
-![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=47A248)
 ![Atom](https://img.shields.io/badge/-Atom-000?&logo=atom)
@@ -42,7 +40,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+// ongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 
 ### Stay in touch:
 
