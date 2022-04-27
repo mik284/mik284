@@ -51,7 +51,7 @@
 
 
   [![mik284's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=mik284&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/mik284ub-readme-stats)
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mik284&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mik284&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideNums=19C0F4F9)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=mik284&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/mik284/github-readme-stats)
 
 
