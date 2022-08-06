@@ -21,9 +21,9 @@
 
 
 
-### Stay in touch:
+### LETS CONNECT:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/michael-kamau-633790203/) LETS CONNECT
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/michael-kamau-633790203/) 
 
 ---
 
