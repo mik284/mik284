@@ -38,4 +38,4 @@
 [![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=mik284&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/mik284/github-readme-stats)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mik284&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mik284&bg_color=d1e5ff&color=4a3dff&line=0d0c0d&point=5157f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
