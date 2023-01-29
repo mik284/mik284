@@ -26,14 +26,12 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-kamau-633790203/) 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mikey_razor_)
 
-
-
 ---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
-</details>
+
 
 
  
@@ -42,3 +40,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mik284&show_icons=true&bg_color=00000000)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mik284&bg_color=d1e5ff&color=4a3dff&line=0d0c0d&point=5157f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  </details>
