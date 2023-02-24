@@ -7,10 +7,11 @@
 
 ## I'm a self taught passionate Developer
 
-- 🌱 I’m currently Learning software Egineeering at ALX SE program/Freecodecamp/ALX-T/Coursera/Natujenge/Scrimba
-- 🥅 2022 Goals: 
+- 🌱 I’m currently sharpening my software development skills using online media like articles and video also podcasts
+- 🥅 2023 Goals: 
 - Learn new skills 
 - Contribute more to Open Source projects
+- Get a JD role
 
 ---
 
