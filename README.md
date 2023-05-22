@@ -7,7 +7,7 @@
 
 ## I'm a self taught passionate Developer
 
-- 🌱 I’m currently sharpening my software development skills using online media like articles and video also podcasts
+- 🌱 I'm currently improving my software development skills through React and Node.js by working on various frontend and backend projects.
 - 🥅 2023 Goals: 
 - Learn new skills 
 - Contribute more to Open Source projects
