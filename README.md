@@ -11,7 +11,6 @@
 - 🥅 2023 Goals: 
 - Learn new skills 
 - Contribute more to Open Source projects
-- Get a JD role
 
 ---
 
