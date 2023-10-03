@@ -5,7 +5,7 @@
 
 
 
-## I'm a self taught passionate Developer
+## I'm a self taught passionate Software Engineer
 
 - 🌱 I'm currently improving my software development skills through React and Node.js by working on various frontend and backend projects.
 - 🥅 2023 Goals: 
