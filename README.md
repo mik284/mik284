@@ -9,8 +9,8 @@
 
 - 🌱 I'm currently enhancing my software engineering proficiency by engaging in diverse frontend and backend projects.
 - 🥅 2024 Goals: 
-- Learn new skills and build more.
-- Contribute more to Open Source projects
+- Code, Eat and Sleep.
+- Repeat the above.
 
 ---
 
