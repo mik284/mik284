@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently enhancing my software engineering proficiency by engaging in diverse projects.
 - 🥅 2025 Goals: 
-- Code, Eat and Sleep.
+- learn, code and Sleep.
 - Repeat the above.
 
 ---
