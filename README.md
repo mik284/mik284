@@ -4,6 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<p>
+I’m a Full-Stack Software Engineer passionate about solving real-world problems with clean, scalable code. My work goes beyond writing features, it's about understanding human needs and turning challenges into reliable, user-friendly digital solutions.
+</p>
 
 # 💻TECH STACKS
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
